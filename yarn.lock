@@ -5552,10 +5552,10 @@ ladariha-button-2@^0.1.0:
   dependencies:
     vue-demi "^0.11.4"
 
-ladariha-button@^0.1.9:
-  version "0.1.9"
-  resolved "https://registry.yarnpkg.com/ladariha-button/-/ladariha-button-0.1.9.tgz#be5b0701648075442babb65ba7ca49d74270922e"
-  integrity sha512-1p+2PAJZDat5iRDYbkLkCMEvdZqMhxWmD1Yn6p79xvNs+eiPkm2ttgxzkJaoo1iph+STECP6RoHZ8Jwg/KDb1A==
+ladariha-button@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/ladariha-button/-/ladariha-button-0.2.0.tgz#5c2408fe7bdb26dffd5253bcc72650050bd8552d"
+  integrity sha512-q3JVT6wgbpiTyhQ/o2MAiJhibtwIQd1Bz9pkn8i7D5UTyM+Q2dJBjK+fwiMQqbjBy2sgkhS9/j1PYG96P3x38A==
   dependencies:
     vue-demi "^0.11.4"
 
